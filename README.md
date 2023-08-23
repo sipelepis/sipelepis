@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sipelepis&label=Profile%20views&color=0e75b6&style=flat" alt="sipelepis" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [lepmoran.me](lepmoran.me)
+- 👨‍💻 All of my projects are available at [lepmoran.me]
 
 - 📫 How to reach me **moran.phillipjan@lepmoran.me**
 
