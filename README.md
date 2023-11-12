@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at  <a href="https://lepmoran.me">lepmoran.me</a> 
 
-- 📫 How to reach me **moran.phillipjan@lepmoran.me**
+- 📫 How to reach me **moran.phillipjan@gmail.com**
 
 - ⚡ Fun fact **I like singing and playing musical instruments. I also have a knack for cycling and running.**
 
