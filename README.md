@@ -55,6 +55,6 @@
   <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sipelepis&show_icons=true&locale=en&layout=donut&theme=github_dark_dimmed" alt="sipelepis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sipelepis&show_icons=true&locale=en&layout=compact&theme=swift " alt="sipelepis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sipelepis&show_icons=true&locale=en&theme=github_dark_dimmed" alt="sipelepis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sipelepis&show_icons=true&locale=en&theme=swift " alt="sipelepis" /></p>
